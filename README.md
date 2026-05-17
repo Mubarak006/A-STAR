@@ -158,8 +158,11 @@ I 1 <br>
 J 0 <br>
 <hr>
 <h2>Sample Output</h2>
-<hr>
+
 Path found: ['A', 'F', 'G', 'I', 'J']
+
+<img width="617" height="314" alt="image" src="https://github.com/user-attachments/assets/b61b6fac-2fb7-4634-a8a3-97bde1280d91" />
+
 
 
 <hr>
@@ -171,6 +174,7 @@ Path found: ['A', 'F', 'G', 'I', 'J']
 
 <hr>
 <h2>Sample Input</h2>
+
 <hr>
 6 6 <br>
 A B 2 <br>
@@ -188,7 +192,9 @@ G 0 <br>
 <hr>
 <h2>Sample Output</h2>
 
-<img width="617" height="317" alt="image" src="https://github.com/user-attachments/assets/2d14597a-7d4b-4d58-a6ef-56e03410c59a" />
-
-<hr>
 Path found: ['A', 'E', 'D', 'G']
+
+<img width="617" height="212" alt="image" src="https://github.com/user-attachments/assets/cb673611-35cf-4707-b983-f6b8c83f5b75" />
+
+
+
